@@ -17,5 +17,7 @@ As module content are constantly undergoing changes each semester, some of the c
 ## Recommendation
 It is recommended for you to create your own cheatsheet since you are more aware of what information you need to refer to in the actual examination. In addition, the process of making the cheatsheet helps enforce learning. Therefore, it is more appropriate to use the cheatsheets here as revision materials to close any learning gaps that you might have.
 
+Also, the color scheme on Github preview is different from the original document. For best viewing pleasure, download the copy and open it locally.
+
 ## Credits
 Majority of the content in the cheatsheets were the results of lecture notes given by the respective professors. Hence, those materials were not created by me - I merely copied and consolidated different important segments in the lecture notes into a double-sided A4 size cheatsheet.
